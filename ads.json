@@ -4,6 +4,11 @@
     "description": "Discover insights, reviews, and stories about your favorite books and authors."
   },
   "ad": {
-    "message": "Ad Space: Promote your book or service here!"
+    "title": "Introducing the New XPhone Z5",
+    "subtitle": "Power Meets Elegance",
+    "description": "Experience lightning-fast performance, a stunning display, and a pro-grade camera in the sleek new XPhone Z5. Now available in stores and online.",
+    "image_url": "https://example.com/images/xphone-z5.png",
+    "cta_text": "Shop Now",
+    "cta_link": "https://example.com/products/xphone-z5"
   }
 }
