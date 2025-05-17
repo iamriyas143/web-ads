@@ -1,13 +1,9 @@
-   [
-       {
-           "id": 1,
-           "content": "<h2>Ad 1</h2><p>Check out our latest offers!</p>",
-           "link": "https://example.com/ad1"
-       },
-       {
-           "id": 2,
-           "content": "<h2>Ad 2</h2><p>Don't miss our special discounts!</p>",
-           "link": "https://example.com/ad2"
-       }
-   ]
-   
+{
+  "blog": {
+    "title": "Latest Book Blog",
+    "description": "Discover insights, reviews, and stories about your favorite books and authors."
+  },
+  "ad": {
+    "message": "Ad Space: Promote your book or service here!"
+  }
+}
