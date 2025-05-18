@@ -2,11 +2,13 @@
   "blog": {
     "title": "Latest Book Blog",
     "description": "Discover insights, reviews, and stories about your favorite books and authors.",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg"
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg",
+    "link":"https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg"
   },
   "ad": {
-    "message": "Ad Space: Promote your book or service here!",
-    "image": "images/ad-image.jpg",
+    "title":"Redmi Note 10",
+    "description": "Discover insights, reviews, and stories about the mobile",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg",
     "link": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg"
   }
 }
