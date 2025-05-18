@@ -1,14 +1,12 @@
 {
   "blog": {
-    "title": "Top Courses in 2025",
-    "description": "Discover insights, reviews, and stories about your favorite books and authors."
+    "title": "Latest Book Blog",
+    "description": "Discover insights, reviews, and stories about your favorite books and authors.",
+    "image": "images/blog-image.jpg"
   },
   "ad": {
-    "title": "Introducing the New XPhone Z5",
-    "subtitle": "Power Meets Elegance",
-    "description": "Experience lightning-fast performance, a stunning display, and a pro-grade camera in the sleek new XPhone Z5. Now available in stores and online.",
-    "image_url": "https://example.com/images/xphone-z5.png",
-    "cta_text": "Shop Now",
-    "cta_link": "https://example.com/products/xphone-z5"
+    "message": "Ad Space: Promote your book or service here!",
+    "image": "images/ad-image.jpg",
+    "link": "https://example.com/ad-link"
   }
 }
