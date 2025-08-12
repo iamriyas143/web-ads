@@ -1,9 +1,9 @@
 {
   "blog": {
-    "title": "Latest Book Blog",
+    "title": "Premium Heart Chain",
     "description": "Discover insights, reviews, and stories about your favorite books and authors.",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg",
-    "link":"https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg"
+    "link":"https://amzn.to/41yZ2Af"
   },
   "ad": {
     "title":"Redmi Note 10",
@@ -12,3 +12,4 @@
     "link": "https://images-na.ssl-images-amazon.com/images/I/51-nXsSRfZL._SX322_BO1,204,203,200_.jpg"
   }
 }
+
